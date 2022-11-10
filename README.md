@@ -2,7 +2,7 @@
 
 # Proje Görseli 
 
-![Kodluyoruz](https://prnt.sc/bZG5CA8SMC6L)
+![indir](https://user-images.githubusercontent.com/64092471/201095315-c785ab34-6a34-42cf-94df-802928fdedda.png)
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
